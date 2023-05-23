@@ -1,0 +1,33 @@
+{
+    "catalog": {},
+    "zones": {},
+    "cache": {
+        "in": {
+            "a": {
+                "a.root-servers.net": [
+                    {
+                        "address": "198.41.0.4",
+                        "expires": 1684863615.4361448,
+                        "info": {
+                            "rtt": 5000,
+                            "batting": 0.000244140625
+                        }
+                    }
+                ],
+                "b.root-servers.net": [
+                    {
+                        "address": "199.9.14.201",
+                        "expires": 1684863635.5677454,
+                        "info": {
+                            "rtt": 5000,
+                            "batting": 0.125
+                        }
+                    }
+                ]
+            },
+            "ns": {},
+            "aaaa": {},
+            "cname": {}
+        }
+    }
+}
