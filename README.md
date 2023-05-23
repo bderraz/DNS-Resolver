@@ -13,7 +13,7 @@ this will start up the dns resolver on port 53.
 
 # Usage
 
-The DNS resolver can be used to resolve DNS records and perform DNS lookups. The DNS resolver can be used as a standalone application. The DNS resolver can also be used as the systems main DNS resolver. As a standalone application the DNS resolver can be querried using dig or nslookup. As the systems main DNS resolver the DNS resolver can be querried using any web browser that uses the systems DNS resolver.
+The DNS resolver can be used to resolve DNS records and perform DNS lookups. The DNS resolver can be used as a standalone application and/or can also be used as the systems main DNS resolver. As a standalone application the DNS resolver can be querried using **dig** or **nslookup**. As the systems main DNS resolver the DNS resolver can be querried using any web browser that uses the systems DNS resolver.
 
 Using dig or nslookup to perform DNS lookups using the DNS resolver:
 
